@@ -12,16 +12,22 @@
       "commandName": "IISExpress",
       "launchBrowser": true,
       "environmentVariables": {
+        "ConnectionStrings__DefaultConnection": "Server=localhost;Port=5554;Database=NotesKeeperBD;User Id=admim;Password=password;",
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Todoist.Web": {
+    "NotesKeeper": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
       "applicationUrl": "https://localhost:5001;http://localhost:5000"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchBrowser": true,
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}"
     }
   }
 }

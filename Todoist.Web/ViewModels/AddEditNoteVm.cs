@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Todoist.Web.ViewModels
+namespace NotesKeeper.ViewModels
 {
     public class AddEditNoteVm
     {

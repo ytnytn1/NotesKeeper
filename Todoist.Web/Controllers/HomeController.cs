@@ -7,11 +7,11 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using Todoist.Web.Data;
-using Todoist.Web.Models;
-using Todoist.Web.ViewModels;
+using NotesKeeper.Data;
+using NotesKeeper.Models;
+using NotesKeeper.ViewModels;
 
-namespace Todoist.Web.Controllers
+namespace NotesKeeper.Controllers
 {
     [Authorize]
     public class HomeController : Controller

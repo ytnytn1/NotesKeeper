@@ -1,6 +1,6 @@
 using System;
 
-namespace Todoist.Web.Models
+namespace NotesKeeper.Models
 {
     public class ErrorViewModel
     {

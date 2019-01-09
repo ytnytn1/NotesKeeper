@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todoist.Web", "Todoist.Web\Todoist.Web.csproj", "{95CE41CD-2123-4C3C-8BD2-B83AA5AABB38}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotesKeeper", "Todoist.Web\NotesKeeper.csproj", "{95CE41CD-2123-4C3C-8BD2-B83AA5AABB38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
